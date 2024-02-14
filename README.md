@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @boa74
-- 👀 I’m interested in Maching Learning, Natural Language Processing
-- 🌱 I’m currently learning programming such as HTML,CSS,R, SQL,C++ 
-- 💞️ I’m looking to collaborate on health institutes for mental health as a data scientist
-- 📫 How to reach me is [email](mailto:boa8574.kim@g,ail.com) me 
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I like dancing with my kid
+
+- 👋 Hi, I’m @boa74.
+- 👀 I’m interested in Machine Learning and Natural Language Processing.
+- 🌱 Currently, I'm learning programming languages such as HTML, CSS, R, SQL, and C++.
+- 💞️ I’m looking to collaborate with health institutes on mental health projects as a data scientist.
+- 📫 You can reach me via email.
+- 😄 Pronouns: she/her/hers.
+- ⚡ Fun fact: I enjoy dancing with my kid.
 
 <!---
 boa74/boa74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
